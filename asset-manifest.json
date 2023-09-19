@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Refo-movie-react-app/static/css/main.b1428ec8.css",
+    "main.js": "/Refo-movie-react-app/static/js/main.f075bc1f.js",
+    "static/js/787.998b4c01.chunk.js": "/Refo-movie-react-app/static/js/787.998b4c01.chunk.js",
+    "static/media/notfound.svg": "/Refo-movie-react-app/static/media/notfound.88a9acef6bea2a8b13da63c7b0d6b523.svg",
+    "static/media/logo.png": "/Refo-movie-react-app/static/media/logo.7f810c2fe5f155b9cf67.png",
+    "static/media/icon-instagram.svg": "/Refo-movie-react-app/static/media/icon-instagram.8d0df55595e16bac2d486efccdc6b4b3.svg",
+    "static/media/icon-pinterest.svg": "/Refo-movie-react-app/static/media/icon-pinterest.61a3584463b61d0f0d6bc14bc5d1e40a.svg",
+    "index.html": "/Refo-movie-react-app/index.html",
+    "static/media/icon-twitter.svg": "/Refo-movie-react-app/static/media/icon-twitter.5dc7711ff2433b3b89ee7742a407e3bd.svg",
+    "static/media/icon-facebook.svg": "/Refo-movie-react-app/static/media/icon-facebook.e9773e52bc64ea377cb95af7ccb6877e.svg",
+    "static/media/icon-close.svg": "/Refo-movie-react-app/static/media/icon-close.bbbbb0069bb8a015e77966ccb00bf3cd.svg",
+    "static/media/icon-hamburger.svg": "/Refo-movie-react-app/static/media/icon-hamburger.5153cb809501d4309c231954bc0f9ec2.svg",
+    "main.b1428ec8.css.map": "/Refo-movie-react-app/static/css/main.b1428ec8.css.map",
+    "main.f075bc1f.js.map": "/Refo-movie-react-app/static/js/main.f075bc1f.js.map",
+    "787.998b4c01.chunk.js.map": "/Refo-movie-react-app/static/js/787.998b4c01.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1428ec8.css",
+    "static/js/main.f075bc1f.js"
+  ]
+}
