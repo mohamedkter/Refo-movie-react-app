@@ -1,0 +1,27 @@
+.play {
+    display: flex;
+    justify-content: center;
+    border-radius: 50px;
+    color: #fff;
+    width: 70px;
+    height: 70px;
+    background: linear-gradient(30deg, #1b7c72 20%, #97cdb3 80%);
+    transition: all 0.3s ease-in-out 0s;
+    box-shadow: rgba(193, 244, 246) 0px 0px  ;
+    animation: 1.2s cubic-bezier(0.8, 0, 0, 0) 0s infinite normal none running pulse;
+    align-items: center;
+    border: 0;
+  }
+  
+  .play:is(:hover, :focus) {
+    transform: scale(1.2);
+  }
+  
+  @keyframes pulse {
+    100% {
+      box-shadow: 0 0 0 45px rgba(193,244,246,0);
+    }
+  }
+  
+  
+  

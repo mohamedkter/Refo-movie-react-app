@@ -1,0 +1,2 @@
+export const CONFIGRATION="CONFIGRATION";
+export const GENRES="GENRES";
